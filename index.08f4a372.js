@@ -1,0 +1,2 @@
+!function(){var e=document.querySelector("table"),l=document.querySelectorAll("tr");if(e&&l){var r=!0,t=!1,n=void 0;try{for(var o,c=l[Symbol.iterator]();!(r=(o=c.next()).done);r=!0){var a=o.value,u=a.cells[a.cells.length-1],i=a.cells[1].cloneNode(!0);a.insertBefore(i,u)}}catch(e){t=!0,n=e}finally{try{r||null==c.return||c.return()}finally{if(t)throw n}}}}();
+//# sourceMappingURL=index.08f4a372.js.map
